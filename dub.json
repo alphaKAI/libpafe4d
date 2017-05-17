@@ -1,0 +1,13 @@
+{
+	"name": "libpafe4d",
+	"authors": [
+		"alphakai"
+	],
+	"description": "a binding of libpafe for d",
+	"copyright": "Copyright (c) 2017, alphakai",
+	"license": "MIT",
+  "dependencies":{
+    "libusb-d":"*"
+  },
+  "libs":["pafe"]
+}
